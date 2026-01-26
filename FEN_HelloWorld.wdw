@@ -26,7 +26,7 @@ window :
      x : 65
      y : 29
      width : 187
-     height : 26
+     height : 42
      tab_stop : 0
      take_focus : 0
     style : {}
