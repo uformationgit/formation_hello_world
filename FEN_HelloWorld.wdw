@@ -13,9 +13,9 @@ window :
  internal_properties : HgAAAB4AAABomimsXR952gQ4zJ92MnM7jsftLuAizSzmSoW9jkyzXPRej/xTnLvQnkzwE89q6K2sLljdi4hxM1B8INz993anJz+qA/T53JiKUakYhenLMEeQHz7vbE8M2A271QD+z1w86lbOZQeGKvxc0K6csUcdRwMmTtBoc790Nu8TXedOQ3N6ChC/vu6SVDFWcUvbYpbcJ0aHyNDqRcwHrrgk6Ti33gaEaOerfww1IRuFJ5E//vgBsVJKxQUwppkcXR0Vt3NaAqSKWsrPQG3BbipqrdPKxAf318KUlV/0QQ3z2W1rXepdwCWSQ7viB+sPJ8cIYkL+UUPpRiLmrjwGQOLQE4sxFt2PimOnXLSsDC6xRxc3iTn9XpziEy36+S2EdVGBEnnEHcIUXkjr5Pq5kjxzf7OumgVekU9wHqeuMpVxBst2Y1eQrPUhgH184R01gC5Z9aLnwsbzIYruZ+ukYuMzN3EYXWP+o7Wdabm3KkpHtqXB16wzTKOmT/e1e/0upIQk/rpks/iyAFvN5Y5Q4qNJ/iG5caMxCHcVGN4+uGlw0yA5rW/CW1rwpL73pKYmIRPYTu00WbiRe0+ujdvNyrlQyadNcBmK9s0eaLNptYpu2698qpo9mIuE1/VXhvgmkAN3SEczk5PDM3IK2WIB/5saOQYBAJOYDgrdUl6hMtWlGkcL6K0Afvjkm8438MnvF3M=
  properties :
   width : 319
-  height : 116
+  height : 167
   widthClient : 317
-  heightClient : 84
+  heightClient : 135
  style : {}
  controls :
   -
@@ -34,6 +34,25 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : BTN_Tester_by_Hervé
+    identifier : 0x2978d3563d73fcfa
+    internal_properties : HgAAAB4AAABiVSYSwLik1wElhm3kIIN8X8egJxKbpCafv/B08D/npbo3RGipe4aMRgXCGemxHt2spbI5ZlENILAI+IQyR+htCNaM3wVGJTFqCZSvF3eiVh11DhSV+FPBkpBAaC0+4GCAWVl05rG94bM63Pr5KJyw1KxKW06bUfe1JnHJjZOSQctX2O084kRCIgVVY0e0b5gEsZv3lioeaC6Dk42GgXAs+F7ovCJ9/q/ysCSeyX1nuX5bqdAeraYa6d6SOL8LSoOmw/LQrDqvlKZ+vH6xcYHamEUjfwVqYXqWvq2JfxjI+r7FnHadtWOcrwqEdoVX7DaiuBwlNTGgx4MTumchOx1Mk7ybcNDJSc9LCNhbsBCEGqmPjNtIxZZvbCNM4eA1CSDY+WFMpqAeyQbZ2yOoiMyY9EVvm2pX2L51Uplx7bpHXfKBk4STUY4jorcem01fMqxXN9tL9KO21/QAUwZREP1eZPoPjyJ6sGu4R7FIUHLSlt0dcS1RaJooMc5Qa95NH8Pd17agPH1vcO0OZZ7xvfCgUmeWnZRUd5Qf0jMJv4uGy2abVZAy7nNil+x7xZxPwN0fgzg2rwyKB4BceVV7FHeGB01EEN3DH2DiIW+ED/AV/+UR3TtB8KCq796/xHehRiurYWs+8DK2zlg52bj4A6p/I1E3IvEqVk6f/armR5SxVfbeDMkWNxTtjPsGwmgS2Yjvoy6jFx2DxjEm261K4kfGxrMtHS2Iconjp3pBNcmYrLeMo01/uN5k/KGVi9uqfya8h8PHdja9F1iso0wOeW4IgguEzmihUrMPJlUOyxnbQGlZXrI4VSU6WBnWP9mBGm3XEk5o37Bl1HGoHtxv42/JtHoZ8UU=
+    properties :
+     x : 103
+     y : 80
+     width : 121
+     height : 31
+     accelerator_key : 65535
+     tab_order : 0
+    style : {}
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
