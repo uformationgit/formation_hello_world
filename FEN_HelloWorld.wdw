@@ -79,7 +79,7 @@ window :
    -
      code : |1+
       
-      Trace("Test")
+      Trace("Test complémmentaire")
      type : 34
    -
      code : |1+
@@ -108,12 +108,12 @@ window :
       
      type : 2
  code_parameters :
-  internal_properties : HgAAAB4AAACoLZs0mW4lq5aP9aNErAlUOSHZ7X4ZrJFFT1JWjhhvitD/xL/r2Etbr+oKxbieVf7YoEoO7HUdc4CD59271o8AU+x7o881eemR/sfDJwMvJH35
+  internal_properties : HgAAAB4AAAB08vLATghmrkt9PkA5zjJ1XRBzIW57+OYTrTVHXNaxl6CuiVj34h9b9BS7XpjUk88wVlyXAbwWgM9GOGhC8OCWbpV3DA==
   original_name : Modele1
 resources :
  string_res :
   identifier : 0x196a48d7012d181c
-  internal_properties : HgAAAB4AAAAEBvz4BdTt90ISSptwDJCphvKgZdUR2e2WGWtmgJlonsrIZP01S5+UbwYBB2sFt7MTEw==
+  internal_properties : HgAAAB4AAAAoIlW7GCLo0gWXGJZEw7jphLir2NNKn1qTR/JLel6oRW1IYauJO1KFJd+3N5M=
 custom_note :
  internal_properties : HgAAAB4AAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
 rad :
