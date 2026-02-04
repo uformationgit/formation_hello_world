@@ -56,7 +56,7 @@ window :
    -
      code : |1+
       
-      
+      Trace("Test")
      type : 34
    -
      code : |1+
