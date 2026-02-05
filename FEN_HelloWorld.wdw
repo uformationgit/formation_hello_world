@@ -21,12 +21,12 @@ window :
   -
     name : LIB_Bonjour_à_tous_!
     identifier : 0x296a4903054ec63e
-    internal_properties : HgAAAB4AAACVXgvXWxAke4PdTIcwmrbcMXAdGYo2iGd2msHvSFyIsT07f9WtWX6MxDeILTW+rIx/7av/2oXuw9jEpNG+IucBH7caDPY0wFroVSBo3PYkP0o6baFoBp1eT7oAx8paHzUO6SKf65Y0nyZOd2t/Hq0zwULunCuxKM6VPdxuKE0nF6Uqp3Y4LvMaoNumcn7RSn4X/N1xNEQjfT+VrqFk2ZVmHmzdS83Kg6JnbtY+B7iZ7w8CXXZkkALGk8ZDPAFJiX1H11L82MVbxoi2XxvCAdaoH/NJwfLjKCPR6beLE41QUgEw7znXzWrgRoT9EaFihyBZwBQ5j4b0eFpwUlCXdrBFtKPvQDUQFZpacdyZt5CsoalO8R8B7mccJWkZoNoS/Tuq6jXAN962TOI9sXMeJM+p8QrMpjuaFSU5dHVRPn20soNNPY/CtRnPsSJBsqaT47CC3SJEcz8UAOjzd2WS3uYrflFHQQpR
+    internal_properties : HgAAAB4AAABbXGrsMRYxMTziQtkX42ez9NiYGGYeo92feIFDLgUowJRZKYSxmWGX8b4KkYT1+MX6q/jvGlp8gk/WKtwvUYAbZuki3PCMPEb5wiRr2CoXMF+CZ/iUw5CRKJYgyk5wi+padcGK5pkityNjkfYbmu5X4rDgy4eYsr1H1ssR3Jy3Vh5exCyK2+ZdKoKODHrOaorBnkugHeaDm6pPafZGETNwT+coVF5tTzoQ1j8R6vHXYZrrXB3tIPb0gyFrpwJ0d4Y/JMZCdxJFBahaEYLPFFbvp17Lrdv+KN43k69u/LwWDf3fFdkkrOSPmuSblOYn4c+rVYBjhJ0k6WqMDF0mE+i+fBYJsA67Yakwc6DyEis4EFcvU1/w1Vdfx//dxSnDOzJA5U/oLj/AG2zrPWhJ6zUeg0dCHpxXUTLvpnEeh+KwYzOyEe2bXhUMH2yJr5kw/5ofl4+TW38u4SsizoZ2Hd9De9bDGRDZcfR1eZDkgUYya6OXoqhc
     properties :
-     x : 106
-     y : 29
-     width : 104
-     height : 26
+     x : 75
+     y : 46
+     width : 167
+     height : 54
      tab_stop : 0
      take_focus : 0
     style : {}
