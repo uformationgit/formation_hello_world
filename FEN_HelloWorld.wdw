@@ -34,6 +34,29 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : BTN_TOTO
+    identifier : 0x2984a6ef00de1608
+    internal_properties : HgAAAB4AAABev9KBQBa5liw2H5+sE7PXPuBaHWeaGGj6quSASOD5SCLqML8LZYbEYav8Ggy/o5Ig8W1KsRHL7WWvRsW4MrA/70f9zxUg3xPgYpmsQl8WG6hg5yHTXPaAmM6rDx9bwpZTc9CS7ddxD/IyxoBJHAbnRG2t9EDf0SS+IZVQl8vo06M7HJi/B5P3et6niaMWC2gwyISBzef3r2ogRCDHZeSdIqrvDVlX8b3ao0nRyVneRU/SsmZ/O7TZjrq+om61RMaCDY3rUZrXCdPvxbvVkBc8xha4mjjyY76hijlEfCT15UYANlgxdYPRvWE8tiSgbPvjkG6DavKKbQUES9vDUuaNkG/XCsPSbTxpsSSYHjm/pV2bcx1khlWfHGW6Z6S6CYkkJrtfVOj6fRpRSL8CrtwCI5vKtK6m7t/91N8dAW26vv+udbof6cFDXTLMzOmxnZrSielNusFXmfXxr8lHQPLSWQ7/967KjR+nJu0LSiT9MJKpEa3rtEXsCtfSyErfEI2GGbxa/v32SBJDkREBsdeK0YdCcdRu/rxitePaF/OBtd8z4TTINtKsep/zXmo5d5XCxcbUyXSvR3PPT4BfKC6opEP2unV13HbXJivZTWRudYDdfY+5vhuUREOz+QP/SxMwj40U6Bpbhrv8Ub8u9RHzIvcpmF3uZ/gcum7Lox4EL1VeGOn4F+FVDZzSRSQs8KwA03KjRWtk+lj9XwImtjJOzdFvK51EBXkbL+WNOqB8oyEf2ppO9841EIUEqxAnb6daTp7UZTk5NjqOyFhOVafEQXNYkoyBU88Eu9XVtes+pJ3x/KMZig3JKssYIi9idKhKHDC4crfCZ2/kOEytyg==
+    properties :
+     x : 199
+     y : 48
+     width : 106
+     height : 31
+     accelerator_key : 65535
+     tab_order : 0
+    style : {}
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         LIB_Bonjour_à_tous_! = "TOTO"
+        type : 18
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
