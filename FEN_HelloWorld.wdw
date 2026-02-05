@@ -10,7 +10,7 @@ info :
 window :
  name : FEN_HelloWorld
  identifier : 0x296a48e7050c5767
- internal_properties : HgAAAB4AAABomimsXR952gQ4zJ92MnM7jsftLuAizSzmSoW9jkyzXPRej/xTnLvQnkzwE89q6K2sLljdi4hxM1B8INz993anJz+qA/T53JiKUakYhenLMEeQHz7vbE8M2A271QD+z1w86lbOZQeGKvxc0K6csUcdRwMmTtBoc790Nu8TXedOQ3N6ChC/vu6SVDFWcUvbYpbcJ0aHyNDqRcwHrrgk6Ti33gaEaOerfww1IRuFJ5E//vgBsVJKxQUwppkcXR0Vt3NaAqSKWsrPQG3BbipqrdPKxAf318KUlV/0QQ3z2W1rXepdwCWSQ7viB+sPJ8cIYkL+UUPpRiLmrjwGQOLQE4sxFt2PimOnXLSsDC6xRxc3iTn9XpziEy36+S2EdVGBEnnEHcIUXkjr5Pq5kjxzf7OumgVekU9wHqeuMpVxBst2Y1eQrPUhgH184R01gC5Z9aLnwsbzIYruZ+ukYuMzN3EYXWP+o7Wdabm3KkpHtqXB16wzTKOmT/e1e/0upIQk/rpks/iyAFvN5Y5Q4qNJ/iG5caMxCHcVGN4+uGlw0yA5rW/CW1rwpL73pKYmIRPYTu00WbiRe0+ujdvNyrlQyadNcBmK9s0eaLNptYpu2698qpo9mIuE1/VXhvgmkAN3SEczk5PDM3IK2WIB/5saOQYBAJOYDgrdUl6hMtWlGkcL6K0Afvjkm8438MnvF3M=
+ internal_properties : HgAAAB4AAAASteKKRQaqhZ7RUuTwPja6lqCF0ayMWCO98eKuzybkfq6mFapaUknevPKFeF+QDy1DcGn9t6PFMqBd8VDXXg+vSB5xv9/KPO0w6HYBUsSqE2bOxp91/EUSW3tz4LNZTqbUN0oGQMsf2N+9BcDarvWoICVCExzYGZSrr11gz4WsB5PRUd5NgxJJSZOxtuQlyOZ63FIB4VBhOrbPpVUHQiNlQOZXKy/emmRpr2GNVdZsESk5EZ1Joew8m4VBSqY2xmVQYfJtPhIzoBKMi54msQaJPTNyz/DAqEpFrEcAYFs/W8zIh5kgqUycxhJ9a+mBSKY8xPqvmnJ001LI7+AlJaZu+HV4hnrt/AlbTy4Xj44+06hjCYqUAPfhRpxutY8UIXerHSHcTg9VAbGazODZgGCSWR+z86lpto4zH0Eb9mqxXzhc6S+1qcXxUEgdotxQXFSmYrudyYf6FMqFQpEhtiACVJ/Bn+/I/XCcZxoJPPRwITEtpSlEEsvyyrpa0qibAa7Rw8lQNOIvkMd3yLd5VWgPznVuwjn2JnMFd/UaV3N8G5QkJp7+yXC22cOYicWHmZcRtWcxDxwQPsKgCh+c7Iq3C6nn+GfRxvbmHFb8g1mKXyAyzuv/UcS3bKzyMjHniHrrIqOMZjkLXcTT0GYRX9dRAqNAGt7j7dmQYO25lV1SVAMJgHicsNT/yHA=
  properties :
   width : 319
   height : 116
@@ -21,11 +21,11 @@ window :
   -
     name : LIB_Bonjour_à_tous_!
     identifier : 0x296a4903054ec63e
-    internal_properties : HgAAAB4AAAD9erH2EYxR2MlUZQm67LIWTKnr4HSulAyRmChN1YlCc5J5FJv0VWY1Ksmco1YLRRsyJR4405KMrYUK665NgYWLpAx3zX0UriCkf8SkycfkAhoz3wnf8PfuIBghWRvWfQZt4v42NZlqx2oAeA1x3b0tIVJ2N50UDVmUSMg9bkpsU+KVJZwWHPPiwg47ZqAfEjGiHvzNef5vXG2nyBhQaRBIOqH9OmdzcmVun6P6ifQXujJCR0p5g2pz4/rdjTLmjbLbvmAQ+VKFNVDyoZzfOLJtNe4DgfXaDMZnw0uI8pByxTUPvbk2cBC7ttA71CI71U3J9QDbClFA82BinmMG55Q04oaR1MiDOYGYK5ik+jHyqM+p5fV6h4V766NR08tD+8zKZa903Ks0iZ59l87Ts+2CZ6M2KmDl/UrPpm3kVxiCE0O60aGXRg0UH5ytO7+ZwlD2dCnTcdTyHYYLjkPazaKYjpRQVtI=
+    internal_properties : HgAAAB4AAAATsVb/gpd0rCwokF4GyBzSvqy6Oh1DwR567l0N83Gdg/srDH1jZd1XbjA1Pdn6M0bVukq1X/qdJQtFrYBn55aeEKxyfLaQIWsnVzfo91NIm1sFX7HqoM49sVOyZC+PZpLyEZO1ejhNeq4b4ShRQucT+8A0s3lLTrXPdlKKLBmzUWSDdoUgnvpqCgjbpBSFUA6a0jw4ISDjkwUqPf9df1PX2sBOYpol5Ybg8NCnRUo6Gwk0FEFjd0RXDHOtrA4mkrCqrrxss9hK47O1QXsvmCNfiFBhF2lKsf68GHO5CtTBJQY5g2OSPtFlG/W7NX6B/gXibaTvJj2L5af5iAisQW2cz0IBTAKBgNt1KMYVAi1DHvBhmbVOnfYZEEhzGHkjIgonI/lOAmUVEWmImXVTTeDUeN2keJoBVlCmHcsd53SRoUA+0bFpusZcYh05X9Dnm+kRbHURryyJstwri5l8hXxJmEyltET1agYXHuiwfiU=
     properties :
-     x : 106
+     x : 32
      y : 29
-     width : 104
+     width : 178
      height : 26
      tab_stop : 0
      take_focus : 0
@@ -34,6 +34,29 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : BTN_TOTO
+    identifier : 0x2984a6ef00de1608
+    internal_properties : HgAAAB4AAADHsgOBrOEhmLDZotL8e3z8QmiF5ziZFSbN6I0AfDVeUFN4/t/CgN6zgwuKHeCDTWOu7Vfc/yJntuum8lZjsqLzaAKXXiMYW3LliT/c/qPoWrIMfcYS4PoLWsUkZnxnGi+wFcO5131tn9oSViAQGldure1LoxuSTvvXD4faS6D4wK16l16nl0SjUoH+3f4y7hE6shnGKRJ2qRzYaCPLQ+nxaZyVwpd80kVIgUDTd3cXOBrdhxLWB5Wbo8KAijzfGYOELaNiOnzc0abyU5RNWR0dVk9ADCemEmAZISt2seiAZX5GNbsthKqQTXmXyFSk2eOTn6BNxrvmKWH5Yji9+3EwUxh3l/8Ai5rWT8uskfhzmKMHeZsofwJCuzW0bdj6nDx/n3snsPdSAXySQO/L3wcM6+Lji1/xUM64tw5RFN2oVI2TBS1e3Q6ciIvIOyRz8rqctDQxu1MUF5/r17m6BNUfL0n/oRh4AgcDydbKXHPcG4oIGIJN7MRt4qav0aoncgx7x4mnAM7NmP3RRXyGoNuHkbM2E6BHiM0v0KqyDrPt8g0+8G75GtDMjL1xeQHgXadLrqPW3AbYurMyKYIJjrpo3H3El1lRV9HenXM2/hQTjGn1Q7tgLS+DIAnUx7IF0Nm7EGPDKQSfVmfipZ27/zkF1hQsEvWSTWRvx/JSY0cn7zI4YnA7HgPsP+u0MYIxSMGGoJJM7nbwzTSsTs8SMLzoUDOtj0cAAX0taoo5RUoO8tyqdMbYmX94jWbUmuT4///GJGMTUFvVO2SwWEipYrMb6bo5aF8RoZTgOM31iJoVEhD6fmQ8Ff55HpaEjNu883afC6xFWata7amNzMkdjJmJ52GMSVY/eSpNpKChfHpeTCsXDzN+9+pfAG0+saCo4tvbZ6iHLudjxAAj7+PhzRJY2rB2nTDY3XkWduMww53QTpoyVwrJ1JLTxCZuPRquIgaacJPf2zS9bE3IRA==
+    properties :
+     x : 158
+     y : 48
+     width : 147
+     height : 31
+     accelerator_key : 65535
+     tab_order : 0
+    style : {}
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         LIB_Bonjour_à_tous_! = "TOTO"
+        type : 18
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
